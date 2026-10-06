@@ -2,7 +2,7 @@
 
 [English](README.en.md) | 中文
 
-这是为 [Himeko Companion 插件](https://github.com/fushuyiliu/astrbot_plugin_himeko) 准备的**公开、脱敏配置指南仓**。它帮助使用者完成 AstrBot 的通用准备、模型选择、插件安装顺序与隐私检查。
+这是为 [Himeko Companion 插件](https://github.com/fushuyiliu/astrbot_plugin_himeko) 准备的**面向公开发布、已脱敏的配置指南仓**，当前处于私有候选审查阶段。它帮助使用者完成 AstrBot 的通用准备、模型选择、插件安装顺序与隐私检查。
 
 它不是生产配置备份，也不是一键部署包。仓库内没有、也不应当加入真实的主人 ID、模型密钥、平台令牌、服务器地址、聊天记录、数据库、日志、附件或备份。
 

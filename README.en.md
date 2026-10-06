@@ -2,7 +2,7 @@
 
 [中文](README.md) | English
 
-This is a **public, sanitized configuration-guide repository** for the [Himeko Companion plugin](https://github.com/fushuyiliu/astrbot_plugin_himeko). It helps users prepare AstrBot, select a model, follow the plugin installation order, and review privacy boundaries.
+This is a **sanitized configuration-guide repository intended for public release** for the [Himeko Companion plugin](https://github.com/fushuyiliu/astrbot_plugin_himeko); it is currently under private-candidate review. It helps users prepare AstrBot, select a model, follow the plugin installation order, and review privacy boundaries.
 
 It is not a production-configuration backup or a one-click deployment bundle. This repository contains—and must never contain—real owner IDs, model keys, platform tokens, server addresses, chat records, databases, logs, attachments, or backups.
 
