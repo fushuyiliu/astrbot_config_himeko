@@ -1,0 +1,22 @@
+# Never commit a live AstrBot configuration or runtime state.
+cmd_config.json
+*_config.json
+!*.config.example.json
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.pfx
+*.sqlite3
+*.sqlite3-*
+data/
+logs/
+backups/
+attachments/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.zip
+*.log
