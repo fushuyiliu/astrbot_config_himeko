@@ -29,7 +29,7 @@ The repositories do not use Git submodules, automatic synchronization, directory
 
 - Prefer AstrBot's plugin-configuration WebUI. Never commit your completed configuration file back to this repository.
 - Keep `owner_id` blank until you enter the exact sender ID in your own AstrBot administration UI.
-- Every sensitive capability starts disabled. Verify ordinary interaction first, then enable memory, reminders, and attachments one at a time if needed.
+- Every sensitive capability starts disabled. Verify ordinary interaction first, then enable memory, reminders, and attachments one at a time if needed. Plugin 1.1.0 adds confirmation-based saving without a new configuration field: a candidate exists only in the current process and same owner private chat, and is written only after the owner's next explicit affirmative reply.
 - Do not put a model key in an example file. AstrBot's AI configuration manages models.
 
 ## Privacy checklist

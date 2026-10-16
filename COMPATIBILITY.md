@@ -3,7 +3,7 @@
 | Component | Supported version / state |
 | --- | --- |
 | AstrBot | `>=4.28,<5` |
-| Himeko Companion plugin | `1.0.0` release candidate |
+| Himeko Companion plugin | `1.1.0` release candidate |
 | Python | Use the Python environment bundled with or documented by your AstrBot installation |
 | Models and platforms | Selected and configured by the user in AstrBot; no provider or platform is bundled here |
 
